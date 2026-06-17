@@ -12,7 +12,7 @@ public class Utilidades {
 
     public static void main(String[] args) {
         // Ejemplo de uso
-        System.out.println("Suma: " + sumar(5, 3));//Aqui esta sumando 5 mas tres
+        System.out.println("Suma: " + sumar(5, 3));//Aqui esta sumando 5 mas tres.
         System.out.println("¿Es par? " + esPar(10));//Aqui si se divide entre dos y da cero es par
     }
 }
